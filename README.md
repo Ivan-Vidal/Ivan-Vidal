@@ -38,12 +38,14 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Vidal&layout=compact">
 
 
 **Stats:**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=dracula">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Vidal&layout=compact">
+
 
 
 
