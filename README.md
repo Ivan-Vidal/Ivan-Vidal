@@ -36,6 +36,11 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 <a href="https://www.instagram.com/ivan_vidal_devFront/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ivan_vidaldevfront" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ivan-Vidal" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Vidal&layout=compact">
+
+
 **Stats:**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=dracula">
