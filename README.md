@@ -3,6 +3,7 @@
 
 
 ## ✨ Bem vindo ao meu Perfil✨. <br> <br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meu nome é Ivan Vidal de Almeida
 
