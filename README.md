@@ -24,12 +24,15 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 **⚡ Eu estou estudando Atualmente:** 
 <p align="left">
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="40" /></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91357845-424c6600-e7c8-11ea-9457-53c06cf3b6ed.png" alt="React-Native" width="60" height="40" /></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://img.icons8.com/color/48/000000/angularjs.png"alt="Angular" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://rockcontent.com/wp-content/uploads/2020/03/github.jpg" alt="Github" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://img.icons8.com/color/48/000000/angularjs.png"alt="Angular" width="40" height="40"/></code>&nbsp; 
+  <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Angular" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://getbootstrap.com.br/docs/4.1/assets/brand/bootstrap-social.png" alt="Angular" width="40" height="40"/></code>&nbsp;
+ 
    </p>
 
 **📫 Como me encontrar:**
