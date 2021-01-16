@@ -3,7 +3,7 @@
 
 
 ## ✨ Bem vindo ao meu Perfil✨. <br> <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Meu nome é Ivan Vidal de Almeida
 
@@ -34,6 +34,9 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
   <code><img src="https://getbootstrap.com.br/docs/4.1/assets/brand/bootstrap-social.png" alt="Angular" width="40" height="40"/></code>&nbsp;
  
    </p>
+   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **📫 Como me encontrar:**
 <p align="left">
