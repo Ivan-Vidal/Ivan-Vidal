@@ -31,7 +31,6 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
   <code><img src="https://rockcontent.com/wp-content/uploads/2020/03/github.jpg" alt="Github" width="40" height="40"/></code>&nbsp;
   <code><img src="https://img.icons8.com/color/48/000000/angularjs.png"alt="Angular" width="40" height="40"/></code>&nbsp; 
   <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Angular" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://getbootstrap.com.br/docs/4.1/assets/brand/bootstrap-social.png" alt="Angular" width="40" height="40"/></code>&nbsp;
  
    </p>
    
@@ -40,8 +39,8 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 **📫 Como me encontrar:**
 <p align="left">
-<a href="https://www.instagram.com/ivan_vidal_devFront/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvtCMlhalutjOCqgcGwZEDZYnVkJoa_DTGCg&usqp=CAU" alt="ivan_vidaldevfront" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvFsa_XXdpvop2y0WJRC1JzERG-s52cKNyAA&usqp=CAU" alt="Ivan-Vidal" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/ivan_vidal_devFront/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/408/408758.svg?token=exp=1611492470~hmac=c1f5878bc2f902d60a51e07c60bdd064" alt="ivan_vidaldevfront" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611492712~hmac=91320fea4f0c900915381dec9f928d2f" alt="Ivan-Vidal" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
 
 
