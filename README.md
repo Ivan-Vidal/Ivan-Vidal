@@ -7,7 +7,7 @@
 
 ### Meu nome é Ivan Vidal de Almeida
 
-Sou desenvolvedor Front-end em formação, atualmente estou focado em aprender Javascript e todas as suas abrangêcias.
+Sou desenvolvedor Front-end, atualmente estou focado em aprender Javascript e todas as suas abrangêcias.
 Gosto de desenvolver sites responsivos com o conceito de Mobile First e utilizar algumas funcionabilidades do Node JS no Back-End.
 Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vasto conhecimento que podemos adquirir e compartilhar.❤️
 
@@ -17,7 +17,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Melhorar ainda mais na área que tanto amo ❤️
 
-* Aprender sobre design e investimentos 💰 
+* Aprender sobre design UI e UX; 
 
 * Conseguir uma oportunidade em uma empresa que tenha vontade de evoluir assim como eu  💻
 
