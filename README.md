@@ -5,7 +5,7 @@
 ## ✨ Bem vindo ao meu Perfil✨. <br> <br>
 
 
-### Meu nome é Ivan Vidal de Almeida
+### Meu nome é Ivan Vidal
 
 Sou desenvolvedor Front-end, atualmente estou focado em aprender Javascript e todas as suas abrangêcias.
 Gosto de desenvolver sites responsivos com o conceito de Mobile First e utilizar algumas funcionabilidades do Node JS no Back-End.
