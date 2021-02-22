@@ -38,7 +38,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 **📫 Como me encontrar:**
 <p align="left">
-<a href="https://www.instagram.com/ivanvidal.dev/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/408/408758.svg?token=exp=1611492470~hmac=c1f5878bc2f902d60a51e07c60bdd064" alt="ivanvidal.dev" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/ivanvidal.dev/" target="blank"><img align="center" src="https://img.icons8.com/fluent/2x/instagram-new.png" alt="ivanvidal.dev" height="80" width="80" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank"><img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3938/3938044.svg" alt="Ivan-Vidal" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
 
