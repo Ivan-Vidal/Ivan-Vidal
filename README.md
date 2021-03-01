@@ -19,7 +19,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Aprimorar em design UI e UX; 
 
-* Conseguir uma oportunidade em uma empresa que tenha vontade de evoluir assim como eu  💻
+* Conseguir uma oportunidade de mudar o mundo usando a tecnologia  💻
 
 
 **⚡ Eu estou estudando Atualmente:** 
