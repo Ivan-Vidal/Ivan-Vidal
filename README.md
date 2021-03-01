@@ -1,4 +1,4 @@
-# Hellow Guys ! 👋 <br> <br>
+# Olá Pessoal ! 👋 <br> <br>
 
 
 
@@ -7,7 +7,7 @@
 
 ### Meu nome é Ivan Vidal
 
-Sou desenvolvedor Front-end, atualmente estou focado em aprender Javascript e todas as suas abrangêcias.
+Sou desenvolvedor Fullstack, atualmente estou focado em desenvolvimento de aplicativos com JavaScript e todas as suas abrangêcias.
 Gosto de desenvolver sites responsivos com o conceito de Mobile First e utilizo o Node JS no Back-End.
 Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vasto conhecimento que podemos adquirir e compartilhar.❤️
 
@@ -17,7 +17,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Melhorar ainda mais na área que tanto amo ❤️
 
-* Aprender sobre design UI e UX; 
+* Aprimorar em design UI e UX; 
 
 * Conseguir uma oportunidade em uma empresa que tenha vontade de evoluir assim como eu  💻
 
