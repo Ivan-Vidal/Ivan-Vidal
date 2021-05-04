@@ -29,8 +29,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Conseguir uma oportunidade de mudar o mundo usando a tecnologia  💻
 
-<br>
-<br>
+
 <br>
 <br>
 
@@ -43,6 +42,9 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
   <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Angular" width="40" height="40"/>&nbsp;&nbsp;
  
    </p>
+   <br>
+<br><br>
+<br>
    
 
 
