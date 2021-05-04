@@ -1,13 +1,19 @@
-# Olá Pessoal ! 👋 <br> <br>
+# Olá Pessoal ! 👋 <br>
+<br>
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
 
 ## ✨ Bem vindo ao meu Perfil✨. <br> <br>
 
 
 ### Meu nome é Ivan Vidal
 
-Sou desenvolvedor Fullstack, atualmente estou focado em desenvolvimento de aplicativos com JavaScript e todas as suas abrangêcias.
+Sou desenvolvedor Full stack com ênfase em Front end, atualmente estou focado em desenvolvimento de aplicativos com JavaScript (React Native) e
+com desenvolvimento usando a biblioteca de design de interfaces (React JS) e todas as suas abrangêcias.
 Gosto de desenvolver sites responsivos com o conceito de Mobile First e utilizo o Node JS no Back-End.
 Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vasto conhecimento que podemos adquirir e compartilhar.❤️
 
@@ -17,10 +23,16 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Melhorar ainda mais na área que tanto amo ❤️
 
-* Aprimorar em design UI e UX; 
+* Aprimorar em design UI e UX;
+ 
+* Aprimorar em Testes; 
 
 * Conseguir uma oportunidade de mudar o mundo usando a tecnologia  💻
 
+<br>
+<br>
+<br>
+<br>
 
 **⚡ Eu estou estudando Atualmente:** 
 <p align="left">
@@ -32,7 +44,6 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
  
    </p>
    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **📫 Como me encontrar:**
