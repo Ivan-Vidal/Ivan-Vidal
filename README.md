@@ -42,9 +42,8 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
   <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Angular" width="40" height="40"/>&nbsp;&nbsp;
  
    </p>
-   <br>
+  
 <br><br>
-<br>
    
 
 
@@ -54,6 +53,6 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 <a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank"><img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3938/3938044.svg" alt="Ivan-Vidal" height="60" width="60" /></a> &nbsp;&nbsp;
  <a href="https://api.whatsapp.com/send?L=pt_BR&phone=5511968344811&text=Tenho%20interesse%20em%20seus%20servi%C3%A7os." target="blank"><img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3536/3536445.svg" alt="Ivan-Vidal" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
-
+ <br> <br>
 
 ## Obrigado pela visita! Espero que volte mais vezes!  🤗
