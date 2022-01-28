@@ -1,9 +1,5 @@
 # Olá Pessoal ! 👋 <br>
 <br>
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 <br>
 
@@ -12,7 +8,7 @@
 
 ### Meu nome é Ivan Vidal
 
-Sou desenvolvedor Full stack com ênfase em Front end, atualmente estou focado em desenvolvimento de aplicativos com JavaScript (React Native) e
+Sou desenvolvedor Front end, atualmente estou focado em desenvolvimento Web com o framework Angular e
 com desenvolvimento usando a biblioteca de design de interfaces (React JS) e todas as suas abrangêcias.
 Gosto de desenvolver sites responsivos com o conceito de Mobile First e utilizo o Node JS no Back-End.
 Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vasto conhecimento que podemos adquirir e compartilhar.❤️
@@ -21,13 +17,9 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 **Meus Objetivos:**
 
-* Melhorar ainda mais na área que tanto amo ❤️
-
-* Aprimorar em design UI e UX;
+* Conhecer mais sobre design UI e UX;
  
 * Aprimorar em Testes; 
-
-* Conseguir uma oportunidade de mudar o mundo usando a tecnologia  💻
 
 
 <br>
@@ -49,9 +41,15 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 **📫 Como me encontrar:**
 <p align="left">
-<a href="https://www.instagram.com/ivanvidal.dev/" target="blank"><img align="center" src="https://img.icons8.com/fluent/2x/instagram-new.png" alt="ivanvidal.dev" height="80" width="80" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank"><img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3938/3938044.svg" alt="Ivan-Vidal" height="60" width="60" /></a> &nbsp;&nbsp;
- <a href="https://api.whatsapp.com/send?L=pt_BR&phone=5511968344811&text=Tenho%20interesse%20em%20seus%20servi%C3%A7os." target="blank"><img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3536/3536445.svg" alt="Ivan-Vidal" height="60" width="60" /></a> &nbsp;&nbsp;
+ <a href="https://www.instagram.com/ivanvidal.dev/" target="blank">
+   <img align="center" src="https://img.icons8.com/fluent/2x/instagram-new.png" alt="ivanvidal.dev" height="80" width="80" />
+ </a> &nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank">
+   <img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3938/3938044.svg" alt="Ivan-Vidal" height="60" width="60" />
+ </a> &nbsp;&nbsp;
+ <a href="https://api.whatsapp.com/send?L=pt_BR&phone=5511968344811&text=Tenho%20interesse%20em%20seus%20servi%C3%A7os." target="blank">
+  <img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3536/3536445.svg" alt="Ivan-Vidal" height="60" width="60" />
+ </a> &nbsp;&nbsp;
 </p>
  <br> <br>
 
