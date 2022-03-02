@@ -9,7 +9,9 @@ Sou desenvolvedor Front end, atualmente estou focado em desenvolvimento Web com 
 com desenvolvimento usando a biblioteca de design de interfaces (React JS) e todas as suas abrangêcias.
 Gosto de desenvolver sites responsivos com o conceito de Mobile First e utilizo o Node JS no Back-End.
 Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vasto conhecimento que podemos adquirir e compartilhar.❤️
-
+<br>
+<br>
+<br>
 
 
 **Meus Objetivos:**
@@ -18,7 +20,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Me aprimorar nas tecnologias que já utilizo;
  
-* Aprimorar em Testes; 
+* Aprender mais sobre Testes; 
 
 
 <br>
