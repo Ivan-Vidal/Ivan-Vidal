@@ -28,7 +28,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 <p align="left">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/51785898/91357845-424c6600-e7c8-11ea-9457-53c06cf3b6ed.png" alt="React-Native" width="60" height="40" />&nbsp;&nbsp;
- <img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="50" height="40"/>&nbsp;&nbsp;
+ <img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Angular" width="40" height="40"/>&nbsp;&nbsp;
  
@@ -51,5 +51,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
  </a> &nbsp;&nbsp;
 </p>
  <br> <br>
+ 
+ ![ Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)
 
 ## Obrigado pela visita! Espero que volte mais vezes!  🤗
