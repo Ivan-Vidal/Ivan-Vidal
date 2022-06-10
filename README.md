@@ -6,7 +6,7 @@
 ### Meu nome é Ivan Vidal
 
 Sou desenvolvedor Front end, atualmente estou focado em desenvolvimento Web com o framework Angular e
-com desenvolvimento usando a biblioteca de design de interfaces (React JS) e todas as suas abrangêcias.
+usando a biblioteca de design de interfaces (React JS) e todas as suas abrangêcias.
 Gosto de desenvolver sites responsivos com o conceito de Mobile First e utilizo o Node JS no Back-End.
 Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vasto conhecimento que podemos adquirir e compartilhar.❤️
 <br>
@@ -18,7 +18,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Aprender mais sobre design UI e UX;
 
-* Me aprimorar nas tecnologias que já utilizo;
+* Me aprimorar nas tecnologias web que utilizo;
  
 * Aprender mais sobre Testes; 
 
