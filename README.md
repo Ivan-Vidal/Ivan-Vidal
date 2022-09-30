@@ -18,7 +18,9 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 * Aprender mais sobre design UI e UX;
 
-* Me aprimorar nas tecnologias web que utilizo;
+* Me aprimorar nas tecnologias que utilizo;
+
+* Aprender desenvolvimento Mobile;
  
 * Aprender mais sobre Testes; 
 
