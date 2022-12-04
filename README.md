@@ -34,6 +34,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
   ![ Angular ](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular) <br/>
   ![ NodeJS ](https://img.shields.io/badge/-NodeJS-yellowgreen?style=flat-square&logo=nodejs) <br/>
   ![ React JS ](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react) <br/>
+  ![ React JS ](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react) <br/>
 
   
 <br><br>
