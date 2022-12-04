@@ -28,12 +28,12 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 
 **⚡ Tecnologias** 
 <br/><br/>
- ![ HTML5 ](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br/>
- ![ CSS3 ](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) <br/>
- ![ JavaScript ](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) <br/>
-![ Angular ](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular) <br/>
-![ NodeJS ](https://img.shields.io/badge/-NodeJS-yellowgreen?style=flat-square&logo=node) <br/>
-![ Angular ](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular) <br/>
+  ![ HTML5 ](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br/>
+  ![ CSS3 ](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) <br/>
+  ![ JavaScript ](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) <br/>
+  ![ Angular ](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular) <br/>
+  ![ NodeJS ](https://img.shields.io/badge/-NodeJS-yellowgreen?style=flat-square&logo=nodejs) <br/>
+  ![ React JS ](https://img.shields.io/badge/-ReactJS-03a9f4?style=flat-square&logo=react) <br/>
 
   
 <br><br>
@@ -43,17 +43,17 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 **📫 Como me encontrar:**
 <p align="left">
  <a href="https://www.instagram.com/ivanvidal.dev/" target="blank">
-   <img align="center" src="https://img.icons8.com/fluent/2x/instagram-new.png" alt="ivanvidal.dev" height="80" width="80" />
+   <img align="center" src="assets/icons/instagram.svg" alt="ivanvidal.dev" height="80" width="80" />
  </a> &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank">
-   <img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3938/3938044.svg" alt="Ivan-Vidal" height="60" width="60" />
+   <img align="center" src="assets/icons/linkedin.svg" alt="Ivan-Vidal" height="60" width="60" />
  </a> &nbsp;&nbsp;
  <a href="https://api.whatsapp.com/send?L=pt_BR&phone=5511968344811&text=Tenho%20interesse%20em%20seus%20servi%C3%A7os." target="blank">
-  <img align="center" src="https://www.flaticon.com/br/premium-icon/icons/svg/3536/3536445.svg" alt="Ivan-Vidal" height="60" width="60" />
+  <img align="center" src="assets/icons/whatsapp.svg" alt="Ivan-Vidal" height="60" width="60" />
  </a> &nbsp;&nbsp;
 </p>
  <br> <br>
  
  ![ Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)
 
-## Obrigado pela visita! Espero que volte mais vezes!  🤗
+### Obrigado pela visita!  🤗
