@@ -19,7 +19,7 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![React-Native](https://img.shields.io/badge/React-Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React-Native](https://img.shields.io/badge/ReactNative-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
