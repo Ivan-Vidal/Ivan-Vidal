@@ -2,9 +2,9 @@
 
 Front-end Developer & Software Engineer
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ivan%20Vidal-D01543?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-vidal-b7485a138/)](https://www.linkedin.com/in/ivan-vidal-b7485a138/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ivan%20Vidal-3ba1f9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-vidal-b7485a138/)](https://www.linkedin.com/in/ivan-vidal-b7485a138/) 
 [![Gmail Badge](https://img.shields.io/badge/-ivanvidal.dev@gmail.com-D01543?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivanvidal.dev@gmail.com)](mailto:ivanvidal.dev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-IvanVidalDev-D01543?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ivanvidal.dev/)](https://www.instagram.com/ivanvidal.dev/)
+[![Instagram Badge](https://img.shields.io/badge/-@ivanvidal.dev-D01543?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ivanvidal.dev/)](https://www.instagram.com/ivanvidal.dev/)
 
 
 Sou desenvolvedor front-end, atualmente estou focado em desenvolvimento Web com o framework Angular e usando a biblioteca de design de interfaces (React JS) e todas as suas abrangêcias.
