@@ -24,22 +24,8 @@ Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vast
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-   
-**📫 Como me encontrar:**
-<p align="left">
- <a href="https://www.instagram.com/ivanvidal.dev/" target="blank">
-   <img align="center" src="assets/icons/instagram.svg" alt="ivanvidal.dev" height="80" width="80" />
- </a> &nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/ivan-vidal-b7485a138/" target="blank">
-   <img align="center" src="assets/icons/linkedin.svg" alt="Ivan-Vidal" height="60" width="60" />
- </a> &nbsp;&nbsp;
- <a href="https://api.whatsapp.com/send?L=pt_BR&phone=5511968344811&text=Tenho%20interesse%20em%20seus%20servi%C3%A7os." target="blank">
-  <img align="center" src="assets/icons/whatsapp.svg" alt="Ivan-Vidal" height="60" width="60" />
- </a> &nbsp;&nbsp;
-</p>
- <br> <br>
  
- ![ Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)
+![ Ivan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Vidal&show_icons=true&theme=radical)
 
 ### Obrigado pela visita!  🤗
 
