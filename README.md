@@ -7,7 +7,8 @@ Front-end Developer & Software Engineer
 [![Instagram Badge](https://img.shields.io/badge/-@ivanvidal.dev-9805ff?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ivanvidal.dev/)](https://www.instagram.com/ivanvidal.dev/)
 
 
-Sou desenvolvedor front-end, atualmente estou focado em desenvolvimento Web com o framework Angular e usando a biblioteca de design de interfaces (React JS) e todas as suas abrangêcias.
+Sou desenvolvedor front-end, atualmente estou focado em desenvolvimento Web com o framework Angular e todas as suas abrangêcias.
+Me aventuro no back-end com o NodeJS e com o SpringBoot.
 Quando mais vasculho o mundo do desenvolvimento, mais encantado fico, com o vasto conhecimento que podemos adquirir e compartilhar.❤️
 
 
